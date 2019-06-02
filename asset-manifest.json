@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DressingRoom/static/css/main.f3ac6aa2.chunk.css",
+    "main.js": "/DressingRoom/static/js/main.7262ee0a.chunk.js",
+    "main.js.map": "/DressingRoom/static/js/main.7262ee0a.chunk.js.map",
+    "runtime~main.js": "/DressingRoom/static/js/runtime~main.63c51b7e.js",
+    "runtime~main.js.map": "/DressingRoom/static/js/runtime~main.63c51b7e.js.map",
+    "static/js/2.bc5fbade.chunk.js": "/DressingRoom/static/js/2.bc5fbade.chunk.js",
+    "static/js/2.bc5fbade.chunk.js.map": "/DressingRoom/static/js/2.bc5fbade.chunk.js.map",
+    "index.html": "/DressingRoom/index.html",
+    "precache-manifest.80dd7a9c779c1b0de1513a57b083aaa0.js": "/DressingRoom/precache-manifest.80dd7a9c779c1b0de1513a57b083aaa0.js",
+    "service-worker.js": "/DressingRoom/service-worker.js",
+    "static/css/main.f3ac6aa2.chunk.css.map": "/DressingRoom/static/css/main.f3ac6aa2.chunk.css.map"
+  }
+}
